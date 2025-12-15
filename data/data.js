@@ -23,7 +23,7 @@ const data = [
     categoria: "Anillos",
     precio: 92000,
     stock: 80,
-    imagen: "../img/anilloSolitario.webp",
+    imagen: "../img/anilloSolitario.jpg",
     descripcion: "Anillo con una piedra central brillante."
   },
   {
@@ -59,7 +59,7 @@ const data = [
     categoria: "Aretes",
     precio: 48000,
     stock: 115,
-    imagen: "../img/pendientesG.png",
+    imagen: "../img/pendientesG.jpg",
     descripcion: "Aretes con formas geométricas modernos."
   },
   {
@@ -68,7 +68,7 @@ const data = [
     categoria: "Collares",
     precio: 67000,
     stock: 99,
-    imagen: "../img/cadenaDije.avif",
+    imagen: "../img/cadenaDije.jpg",
     descripcion: "Cadena delicada con dije pequeño en oro."
   },
   {
