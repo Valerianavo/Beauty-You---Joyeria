@@ -77,7 +77,7 @@ const data = [
     categoria: "Anillos",
     precio: 99000,
     stock: 100,
-    imagen: "../img/anilloCompromiso.jpg",
+    imagen: "/img/anilloCompromiso.jpg",
     descripcion: "Anillo de compromiso elegante de plata."
   }
 ];
