@@ -32,7 +32,7 @@ function mostrarDetalleProducto() {
                     <div class="row g-0">
                         <!-- Columna de la imagen  -->
                         <div class="col-md-5">
-                            <img src="${
+                            <img src="../${
                               producto.imagen
                             }" class="img-fluid rounded-start h-100" alt="${
     producto.nombre

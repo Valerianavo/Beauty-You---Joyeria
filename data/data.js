@@ -59,7 +59,7 @@ const data = [
     categoria: "Aretes",
     precio: 48000,
     stock: 115,
-    imagen: "../img/pendientesG.png",
+    imagen: "img/pendientesG.png",
     descripcion: "Aretes con formas geométricas modernos."
   },
   {
@@ -68,7 +68,7 @@ const data = [
     categoria: "Collares",
     precio: 67000,
     stock: 99,
-    imagen: "../img/cadenaDije.avif",
+    imagen: "img/cadenaDije.avif",
     descripcion: "Cadena delicada con dije pequeño en oro."
   },
   {
@@ -77,7 +77,7 @@ const data = [
     categoria: "Anillos",
     precio: 99000,
     stock: 100,
-    imagen: "/img/anilloCompromiso.jpg",
+    imagen: "img/anilloCompromiso.jpg",
     descripcion: "Anillo de compromiso elegante de plata."
   }
 ];
